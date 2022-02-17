@@ -1,0 +1,5 @@
+This program will allow user to input three numbers, compute their squares, then sum the squares.
+
+Input any three numbers
+Compute their squares
+Compute sum of the squares
