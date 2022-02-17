@@ -1,0 +1,10 @@
+This program will ask user to input a number. This will be added to the previous sum until a negative result is encountered at which stage the result will be printed.
+
+Input two numbers to begin
+IF(sum<0)
+  Display result
+ELSE
+  WHILE(sum<0)
+    sum=sum+input(number)
+  Display result
+   
