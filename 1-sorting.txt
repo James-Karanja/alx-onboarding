@@ -1,0 +1,6 @@
+This program allows the user to input three non-corresponding numbers. The numbers are then sorted, then printed them in order from smallest to greatest.
+
+Allow the user to input three numbers
+Check whether any of the numbers are corresponding using WHILE statement
+Sort the numbers from  using nested IF statements
+Print the numbers in order from smallest to greatest
